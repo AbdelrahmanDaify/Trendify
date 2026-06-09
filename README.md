@@ -23,6 +23,26 @@ Trendify is a responsive fashion e-commerce front-end application designed to de
 * Reusable Component Architecture
 * Modern UI/UX
 
+
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](src/assets/screenshots/home-page.png)
+
+### Men Category
+
+![Men Category](src/assets/screenshots/men-category.png)
+
+### Women Category
+
+![Women Category](src/assets/screenshots/women-category.png)
+
+### Product Details
+
+![Product Details](src/assets/screenshots/product-details.png)
+
 ## 🛠️ Tech Stack
 
 * React 18
