@@ -8,7 +8,7 @@ import ProductDetail from './pages/product-detail';
 import WomensCategoryPage from './pages/women-s-category';
 import SearchResults from './pages/search-results';
 import MensCategoryPage from './pages/men-s-category';
-import Homepage from './pages/homepage';
+import Homepage from './pages/HomePage';
 
 const Routes = () => {
   return (
