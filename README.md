@@ -35,16 +35,16 @@ Users can browse products, explore categories, view product details, search item
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](src/assets/screenshots/home-page.png)
+![HomePage](src/assets/screenshots/HomePage.png)
 
 ### Men Category
-![Men Category](src/assets/screenshots/men-category.png)
+![MenCategory](src/assets/screenshots/MenCategory.png)
 
 ### Women Category
-![Women Category](src/assets/screenshots/women-category.png)
+![WomenCategory](src/assets/screenshots/WomenCategory.png)
 
 ### Product Details
-![Product Details](src/assets/screenshots/product-details.png)
+![ProductDetails](src/assets/screenshots/ProductDetails.png)
 
 ---
 
